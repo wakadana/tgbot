@@ -1,0 +1,11 @@
+aiogram==3.15.0
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+requests==2.32.3
+aiosqlite==0.20.0
+APScheduler==3.10.4
+scikit-learn==1.5.2
+python-dotenv==1.0.1
+lxml==5.3.0
+telethon==1.35.0
+
